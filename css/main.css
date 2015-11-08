@@ -1,0 +1,15 @@
+body {
+	background-color: #FEFEFE;
+	font-family: monospace;
+	font-size: 12px;
+	width: 480px;
+}
+/* --------------------------------- LINKS --------------------------------- */
+a 			{ text-decoration: none; color: #000000; }
+a:link		{ text-decoration: none; color: #000000; }
+a:hover		{ text-decoration: none; color: #FEFEFE; background-color: #000000; }
+a:visited	{ text-decoration: none; }
+a.head 			{ text-decoration: none; border: #000 solid 1px; color: #FEFEFE; margin: auto; padding: 3px; }
+a.head:link		{ text-decoration: none; border: #000 solid 1px; color: #FEFEFE; background-color: #000000; }
+a.head:hover	{ text-decoration: none; border: #000 solid 1px; color: #000000; background-color: #FEFEFE; }
+a.head:visited	{ text-decoration: none; border: #000 solid 1px; }
