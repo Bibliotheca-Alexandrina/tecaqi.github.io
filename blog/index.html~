@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TecaQI - Blog</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="http://tecaqi.github.io/css/main.css">
+	</head>
+	<body>
+
+		<h1>Blog TecaQI</h1>
+		<p>
+			<a class="head" href="">Início</a>
+			<a class="head" href="" style="background-color: #FFF; color: #000;">Blog</a>
+			<a class="head" href="">Contato</a>
+			<a class="head" href="">Download</a>
+			<a class="head" href="">Sobre</a>
+		</p><br>
+
+		<br><p><i><a href="https://pt.wikipedia.org/wiki/Copyleft">Copyleft</a> © 2015 Biblioteca Alexandrina</i></p>
+	</body>
+</html>
